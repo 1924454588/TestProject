@@ -2,7 +2,7 @@
 #define WIDGET_H
 
 #include <QWidget>
-
+1
 namespace Ui {
 class Widget;
 }
