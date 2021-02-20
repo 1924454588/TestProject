@@ -10,4 +10,6 @@ int main(int argc, char *argv[])
 
     cout << "Hello" << endl;
     return a.exec();
+
+    1
 }
