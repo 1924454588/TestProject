@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Toolbar/Blob.png</file>
+        <file>Image/Toolbar/创建模板.png</file>
+        <file>Image/Toolbar/单帧采集.png</file>
+        <file>Image/Toolbar/对比度增强.png</file>
+        <file>Image/Toolbar/二值化.png</file>
+        <file>Image/Toolbar/反转.png</file>
+        <file>Image/Toolbar/加载图片.png</file>
+        <file>Image/Toolbar/矩形.png</file>
+        <file>Image/Toolbar/联通.png</file>
+        <file>Image/Toolbar/拍照.png</file>
+        <file>Image/Toolbar/确定.png</file>
+        <file>Image/Toolbar/上一页 (1).png</file>
+        <file>Image/Toolbar/实时采集.png</file>
+        <file>Image/Toolbar/停止.png</file>
+        <file>Image/Toolbar/停止采集.png</file>
+        <file>Image/Toolbar/椭圆.png</file>
+        <file>Image/Toolbar/文件夹.png</file>
+        <file>Image/Toolbar/下一页.png</file>
+        <file>Image/Toolbar/显示原图.png</file>
+        <file>Image/Toolbar/旋转矩形.png</file>
+        <file>Image/Toolbar/寻找模板.png</file>
+        <file>Image/Toolbar/圆形.png</file>
+        <file>Image/Toolbar/抓拍.png</file>
+        <file>Image/Toolbar/自动.png</file>
+        <file>Image/Add/单步运行.png</file>
+        <file>Image/Add/多步运行.png</file>
+        <file>Image/Add/删 除.png</file>
+        <file>Image/Add/上升.png</file>
+        <file>Image/Add/下降.png</file>
+        <file>Image/Add/重置.png</file>
+        <file>Image/Color/主题灰色.png</file>
+        <file>Image/Color/主题浅黑.png</file>
+        <file>Image/Color/主题浅蓝.png</file>
+        <file>Image/Color/主题深黑.png</file>
+        <file>Image/Color/主题深蓝.png</file>
+        <file>Image/Color/主题银色.png</file>
+        <file>Image/ImageToolbar/放大.png</file>
+        <file>Image/ImageToolbar/清空.png</file>
+        <file>Image/ImageToolbar/缩小.png</file>
+        <file>Image/ImageToolbar/自适应图标.png</file>
+        <file>Image/Judge/矩形闭运算.png</file>
+        <file>Image/Judge/矩形腐蚀.png</file>
+        <file>Image/Judge/矩形开运算.png</file>
+        <file>Image/Judge/矩形膨胀.png</file>
+        <file>Image/Judge/判断.png</file>
+        <file>Image/Judge/圆形闭运算.png</file>
+        <file>Image/Judge/圆形腐蚀.png</file>
+        <file>Image/Judge/圆形开运算.png</file>
+        <file>Image/Judge/圆形膨胀.png</file>
+        <file>Image/Windows/maximize.png</file>
+        <file>Image/Windows/restore.png</file>
+        <file>Image/Windows/关闭.png</file>
+        <file>Image/Windows/最小化.png</file>
+    </qresource>
+</RCC>
