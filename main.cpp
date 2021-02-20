@@ -11,5 +11,5 @@ int main(int argc, char *argv[])
     cout << "Hello" << endl;
     return a.exec();
 
-	2
+    1
 }

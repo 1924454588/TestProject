@@ -23,5 +23,4 @@ void Widget::on_toolButton_2_clicked()
 {
     this->showMaximized();
 }
-
-	2
+1
